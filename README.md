@@ -46,8 +46,8 @@ Desenvolvimento de projetos focados em análise de dados, construção de dashbo
 
 ## 📫 Contato
 
-* 💼 LinkedIn: (https://www.linkedin.com/in/thaynanrodrigues/)
-* 📧 Email: (thaynandata@gmail.com)
+* 💼 LinkedIn: https://www.linkedin.com/in/thaynanrodrigues/
+* 📧 Email: thaynandata@gmail.com
 
 ---
 
