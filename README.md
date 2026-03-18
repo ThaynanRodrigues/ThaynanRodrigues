@@ -38,6 +38,7 @@ Atuo na transformação de dados em informações relevantes para o negócio, ut
 ## 📂 Projetos
 
 🔹 **Análise de Dados e Dashboards**
+
 Desenvolvimento de projetos focados em análise de dados, construção de dashboards interativos e geração de insights utilizando ferramentas como Python, SQL e Power BI.
 
 
