@@ -1,7 +1,8 @@
 # 👋 Olá, eu sou o Thaynan
 
 🎯 Analista de Dados | Ciência de Dados & Inteligência Artificial
-📊 Foco em geração de insights estratégicos e suporte à tomada de decisão
+
+📊 Foco em geração de insights estratégicos e suporte à tomada de decisões
 
 ---
 
